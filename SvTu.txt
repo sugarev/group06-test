@@ -1,0 +1,9 @@
+# group06-test
+Group06
+Petar
+Terziev
+<<<<<<< HEAD
+Sv
+=======
+Tu
+>>>>>>> origin/master
